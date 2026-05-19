@@ -1,7 +1,8 @@
 # aws-s3-lambda-audio-pipeline.
-An automated AWS pipeline built via IaC that triggers an AWS Lambda function upon audio uploads to an Amazon S3 bucket.
 
-Initially I will be documenting the hole process since this one is my first AWS - Python project. and actually my first ever seripus projects. So thanks for watching and hopefully this will be of help for beguiners like me.
+An automated AWS pipeline built via Infrastructure as Code (IaC) that triggers an AWS Lambda function upon audio uploads to an Amazon S3 bucket.
 
-19/05/2026
-Today day 19/05/2026 or Day 1 i will set up this repository and createed an AWS Consolole paid account. Furthermore I set a budget of 5$ monthly to get an alarm trough my gmail account each time I surpass that budget. 
+I will be documenting the entire process from scratch, as this is my first AWS and Python project—and my first serious technical portfolio piece. Thank you for following along! Hopefully, this guide will serve as a helpful resource for fellow beginners.
+
+📅 Project Journal
+Day 1 (19/05/2026): Successfully initialized this repository and configured a new AWS account. To ensure cost-efficiency and catch any runaway resources, I established a strict monthly AWS budget of $5.00 with automated email alerts directed to my primary Gmail account.
