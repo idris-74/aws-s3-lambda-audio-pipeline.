@@ -6,3 +6,6 @@ I will be documenting the entire process from scratch, as this is my first AWS a
 
 📅 Project Journal
 Day 1 (19/05/2026): Successfully initialized this repository and configured a new AWS account. To ensure cost-efficiency and catch any runaway resources, I established a strict monthly AWS budget of $5.00 with automated email alerts directed to my primary Gmail account.
+
+will continue
+
